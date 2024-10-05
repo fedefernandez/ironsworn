@@ -1,6 +1,4 @@
 title: Ironsworn - Actual Plays
+description: A place where I will share some Ironsworn sessions
 
-theme: minima
-
-minima:
-  skin: dark
+theme: jekyll-theme-slate
