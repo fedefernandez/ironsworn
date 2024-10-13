@@ -2,7 +2,9 @@
 
 ## Session 01 - The Rerrifying Bear
 
-After wandering for several days blindfolded [discovered in the second session], one day, as night approached, a loud blow sent me rolling down the hill, preceded by a bestial roar.
+![](img/session_01.jpg)
+
+After wandering for several days blindfolded [*discovered in the second session*], one day, as night approached, a loud blow sent me rolling down the hill, preceded by a bestial roar.
 
 When I managed to remove the blindfold, I discovered how my captors were facing a terrifying bear, suffering a terrible fate.
 
@@ -123,4 +125,4 @@ And then fate turned in my favor. With a burst of energy, I charged recklessly, 
 
 The bear collapsed at my feet, its breath ragged and fading until, finally, it was still. I stood over it, victorious, but the cost had been steep.
 
-[Home](/index.html)
+[Home](../../index.html)
