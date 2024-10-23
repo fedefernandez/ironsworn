@@ -125,4 +125,6 @@ And then fate turned in my favor. With a burst of energy, I charged recklessly, 
 
 The bear collapsed at my feet, its breath ragged and fading until, finally, it was still. I stood over it, victorious, but the cost had been steep.
 
-[Home](../../index.html)
+I took a moment to meditate on the life of that living being and realized how unfair life can be. I hope the higher powers can forgive me.
+
+[Home](../../index.html) | [Session #2](session_02.html)
