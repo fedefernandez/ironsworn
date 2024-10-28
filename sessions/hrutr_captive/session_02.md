@@ -32,4 +32,4 @@ I had my eyes covered all the way and my captives didn't survive. I inspected th
 
 I knew one of my captives; an old member of my settlement that was expelled because of serious crimes. I have the feeling he was part of it and contributed to the assault.
 
-[Home](../../index.html) | [Back to Session #1](session_01.html)
+[Back to Session #1](session_01.html) | [Home](../../index.html) | [Session #3](session_03.html)
