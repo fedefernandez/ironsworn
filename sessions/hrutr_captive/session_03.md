@@ -32,4 +32,4 @@ In the end, I realized that fear is a poor companion for rest, leaving me more w
 
 I knew one of my captives; an old member of my settlement that was expelled because of serious crimes. I have the feeling he was part of it and contributed to the assault.
 
-[Back to Session #2](session_02.html) | [Home](../../index.html)
+[Back to Session #2](session_02.html) | [Home](../../index.html) | [Session #4](session_04.html)
